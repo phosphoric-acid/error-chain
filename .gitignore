@@ -1,3 +1,6 @@
 *~
 target/
 Cargo.lock
+liberror_chain.rlib
+liberror_chain.so
+liberror_chain.so.0.10.0
